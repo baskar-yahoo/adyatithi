@@ -1,9 +1,12 @@
 default_to_none = true
 id = "gavAmayana-dvAdazI"
 tags = [ "LessCommonFestivals",]
-shlokas = "अहोरात्रेण द्वादश्यां ज्येष्ठे मासि त्रिविक्रमम्।\nगवामयनमाप्नोति अप्सरोभिश्च मोदते॥"
+shlokas = """
+अहोरात्रेण द्वादश्यां ज्येष्ठे मासि त्रिविक्रमम्।
+गवामयनमाप्नोति अप्सरोभिश्च मोदते॥
+"""
 references_primary = [ "Mahabharata",]
-references_secondary = [ "Vaidikasri June 2017",]
+references_secondary = [ "Smriti Kaustubha p.123",]
 jsonClass = "HinduCalendarEvent"
 
 [timing]
@@ -15,7 +18,7 @@ anga_number = 12
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
-en = "Perform puja of Lord Trivikrama (Sahasranamarchana), do naivedyam of mangoes and offer annadanam to needy."
+en = "Perform puja of Bhagavan Trivikrama (Sahasranamarchana), do naivedyam of mangoes and offer annadanam to needy."
 
 [names]
 sa = [ "गवामयन-द्वादशी",]

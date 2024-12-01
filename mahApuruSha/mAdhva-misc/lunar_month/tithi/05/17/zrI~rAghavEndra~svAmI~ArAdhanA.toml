@@ -1,7 +1,10 @@
 default_to_none = true
 id = "zrI~rAghavEndra~svAmI~ArAdhanA"
 tags = [ "MahapurushaEvents", "CommonFestivals",]
-shlokas = "पूज्याय राघवेन्द्राय सत्यधर्मरताय च।\nभजतां कल्पवृक्षाय नमतां कामधेनवे॥"
+shlokas = """
+पूज्याय राघवेन्द्राय सत्यधर्मरताय च।
+भजतां कल्पवृक्षाय नमतां कामधेनवे॥
+"""
 jsonClass = "HinduCalendarEvent"
 
 [timing]
@@ -12,6 +15,8 @@ anga_type = "tithi"
 anga_number = 17
 year_start = 4773
 year_start_era = "kali"
+priority = "vyaapti"
+kaala = "अपराह्णः"
 jsonClass = "HinduCalendarEventTiming"
 
 [names]

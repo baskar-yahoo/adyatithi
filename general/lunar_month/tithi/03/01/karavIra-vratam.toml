@@ -1,7 +1,11 @@
 default_to_none = true
 id = "karavIra-vratam"
 tags = [ "SpecialVratam",]
-shlokas = "करवीर विषावास नमस्ते भानुवल्लभ।\nमौलिमण्डन दुर्गादि देवानां सततं प्रिय"
+shlokas = """
+करवीर विषावास नमस्ते भानुवल्लभ।
+दम्भोलिमृडदुर्गादि देवानां सततं प्रिय॥
+"""
+references_primary = [ "Naradiya Puranam, Adhyaya 110",]
 jsonClass = "HinduCalendarEvent"
 
 [timing]

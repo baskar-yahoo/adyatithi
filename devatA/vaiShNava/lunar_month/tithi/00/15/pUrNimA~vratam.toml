@@ -10,10 +10,11 @@ month_number = 0
 anga_type = "tithi"
 anga_number = 15
 kaala = "सूर्योदयः"
+adhika_maasa_handling = "adhika_and_nija"
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
-en = "`pUrNimA vratam` is commonly observed for Lord Satyanarayana."
+en = "`pUrNimA vratam` is commonly observed for Bhagavan Satyanarayana."
 
 [names]
 sa = [ "पूर्णिमा-व्रतम्",]
